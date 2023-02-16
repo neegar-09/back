@@ -1,0 +1,17 @@
+{
+    "users": [
+     {
+         "id":1,
+         "login":"Elsad"
+     },
+     {
+         "id":2,
+         "login":"Eli"
+         
+     },
+     {
+         "id":3,
+         "login":"Nigar"
+     }
+ ]
+ }
