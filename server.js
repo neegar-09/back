@@ -6,6 +6,7 @@ const port = 3030
 //middleware
 
 app.use(cors())
+
 app.use(express.json())
 
 
